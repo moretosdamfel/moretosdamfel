@@ -37,9 +37,9 @@ A developer focused on learning, improving, and building real-world web applicat
 
 ## 📫 Connect
 <p align="center">
-<a href="https://facebook.com"><img src="https://img.shields.io/badge/Facebook-0d1117?style=for-the-badge&logo=facebook&logoColor=1877f2"/></a>
+<a href="[https://facebook.com](https://www.facebook.com/profile.php?id=61587021825902&sk=about)"><img src="https://img.shields.io/badge/Facebook-0d1117?style=for-the-badge&logo=facebook&logoColor=1877f2"/></a>
 <a href="https://linkedin.com"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0a66c2"/></a>
-<a href="mailto:yourmail@gmail.com"><img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=ea4335"/></a>
+<a href="mailto:arrengagaza@gmail.com"><img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=ea4335"/></a>
 </p>
 
 <p align="center"><sub>// Building something new every day &nbsp;·&nbsp; open to collabs</sub></p>
