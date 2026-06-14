@@ -1,6 +1,5 @@
-<!-- HERO -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Transforming+ideas+into+real+web+apps.;Laravel+%C2%B7+React+%C2%B7+MySQL+enthusiast.;Learning.+Building.+Evolving." />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=4000&pause=800&color=00FF7F&center=true&vCenter=true&width=600&lines=Transforming+ideas+into+real+web+apps.;Laravel+%C2%B7+React+%C2%B7+MySQL+enthusiast.;Learning.+Building.+Evolving." />
 </p>
 
 
