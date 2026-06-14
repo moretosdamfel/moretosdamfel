@@ -31,7 +31,8 @@ A developer focused on learning, improving, and building real-world web applicat
 
 ## 🛠 Tools
 <p align="center">
-<img src="https://skillicons.dev/icons?i=git,vscode&theme=dark"/>
+  <img src="https://skillicons.dev/icons?i=git,vscode&theme=dark"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/98/Apache_NetBeans_Logo.svg" height="50"/>
 </p>
 
 ---
@@ -44,4 +45,4 @@ A developer focused on learning, improving, and building real-world web applicat
 </p>
 
 
-<p align="center"><sub>// Learning something new every day &nbsp;·&nbsp; 
+<p align="left"><sub> Learning something new every day &nbsp;
