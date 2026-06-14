@@ -1,73 +1,45 @@
+<!-- HERO -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=FFAA00&size=22&center=true&vCenter=true&width=600&lines=SYSTEM+ALERT+%3A+DEVELOPER+ONLINE;Initializing+Full+Stack+Modules...;Security+Status:+STABLE;Performance:+OPTIMIZED" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Transforming+ideas+into+real+web+apps.;Laravel+%C2%B7+React+%C2%B7+MySQL+enthusiast.;Learning.+Building.+Evolving." />
+</p>
+
+<h1 align="center">Full Stack Developer in Progress</h1>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-Learning-3fb950?style=flat-square&labelColor=0d1117"/>
+  <img src="https://img.shields.io/badge/Stack-Laravel_%C2%B7_React_%C2%B7_MySQL-7c3aed?style=flat-square&labelColor=0d1117"/>
+  <img src="https://img.shields.io/badge/Mode-Build_Mode-00d4ff?style=flat-square&labelColor=0d1117"/>
 </p>
 
 ---
 
-# 🌍 About Me
-
-Initializing developer profile...
-
-Building skills in frontend and backend development.
-
-Current stack: Laravel • React • MySQL
-
-Mission: Transform ideas into functional web applications.
-
-Status: Learning, building, and evolving every day.
-
-
+## `$ whoami`
+A developer focused on learning, improving, and building real-world web applications.
 
 ---
 
-
 ## 🎨 Frontend
 <p align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="45"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vue&theme=dark"/>
 </p>
 
 ## ⚙️ Backend
 <p align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45"/>
+<img src="https://skillicons.dev/icons?i=laravel,php,nodejs,mysql&theme=dark"/>
 </p>
 
----
-
-# ☄️ Technologies & Tools
-
+## 🛠 Tools
 <p align="center">
-<img src="https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript&logoColor=yellow"/>
-<img src="https://img.shields.io/badge/TypeScript-black?style=for-the-badge&logo=typescript"/>
-<img src="https://img.shields.io/badge/React-black?style=for-the-badge&logo=react"/>
-<img src="https://img.shields.io/badge/Laravel-black?style=for-the-badge&logo=laravel"/>
-<img src="https://img.shields.io/badge/Node.js-black?style=for-the-badge&logo=node.js"/>
-<img src="https://img.shields.io/badge/MySQL-black?style=for-the-badge&logo=mysql"/>
-<img src="https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git"/>
-<img src="https://img.shields.io/badge/VSCode-black?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=git,vscode&theme=dark"/>
 </p>
 
 ---
 
----
-
-# 📫 Where to Find Me
-
+## 📫 Connect
 <p align="center">
-<a href="https://facebook.com"><img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook"/></a>
-<a href="https://linkedin.com"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/></a>
-<a href="mailto:yourmail@gmail.com"><img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail"/></a>
+<a href="https://facebook.com"><img src="https://img.shields.io/badge/Facebook-0d1117?style=for-the-badge&logo=facebook&logoColor=1877f2"/></a>
+<a href="https://linkedin.com"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0a66c2"/></a>
+<a href="mailto:yourmail@gmail.com"><img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=ea4335"/></a>
 </p>
 
----
-
-<!-- 🌑 FOOTER -->
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:000000&height=120&section=footer"/>
-</p>
+<p align="center"><sub>// Building something new every day &nbsp;·&nbsp; open to collabs</sub></p>
