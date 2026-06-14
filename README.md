@@ -31,10 +31,9 @@ A developer focused on learning, improving, and building real-world web applicat
 
 ## 🛠 Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,vscode&theme=dark"/>
+  <img src="https://skillicons.dev/icons?i=git,vscode,idea,sublime&theme=dark"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/98/Apache_NetBeans_Logo.svg" height="50"/>
 </p>
-
 ---
 
 ## Contact !
